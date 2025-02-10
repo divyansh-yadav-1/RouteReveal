@@ -1,6 +1,5 @@
 # PathFinderVisualizer  
 [Live Demo](https://path-explorer.netlify.app)  
-[YouTube Playlist](https://www.youtube.com/watch?v=Oaf9mR9oDT8&list=PLZ92O1inS6VmlSaCzdxm5_Jf2IyJesCF4&pp=iAQB)  
 
 ## Overview  
 **PathFinderVisualizer** is an interactive web application developed using pure JavaScript that visualizes various pathfinding algorithms. This tool enables users to experiment with custom mazes, explore algorithmic behavior, and gain a deeper understanding of how pathfinding works in real-time.  
@@ -36,9 +35,3 @@
 4. Select a pathfinding algorithm from the menu.  
 5. Click **"Visualize"** to start the animation.  
 6. Observe how the algorithm processes and finds the shortest path.  
-
-## Installation  
-
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/abhijeetSinghRajput/pathFinderVisualizer.git
