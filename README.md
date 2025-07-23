@@ -29,7 +29,7 @@
 - **Logic:** JavaScript for algorithm implementation and grid rendering.  
 
 ## How to Use  
-1. Visit the live demo: [Path Finder Visualizer](https://path-explorer.netlify.app).  
+1. Visit the live demo: [Path Finder Visualizer](https://route-reveal.vercel.app/).  
 2. Use the mouse to create walls by clicking and dragging on the grid.  
 3. Set the **start** and **end** points by clicking on the respective nodes.  
 4. Select a pathfinding algorithm from the menu.  
