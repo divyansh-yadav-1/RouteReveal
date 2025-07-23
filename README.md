@@ -1,4 +1,4 @@
-# PathFinderVisualizer  
+#Route Reveal - PathFinderVisualizer  
 [Live Demo](https://route-reveal.vercel.app/)  
 
 ## Overview  
