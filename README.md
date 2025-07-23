@@ -1,4 +1,4 @@
-# RouteReveal # PathfinderVisualizer
+# RouteReveal-PathfinderVisualizer
 [Live Demo](https://route-reveal.vercel.app/)  
 
 ## Overview  
